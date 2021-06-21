@@ -1,7 +1,7 @@
-:paperclip:[view my page!](https://lianchencc.github.io/)
 ## 👋 Welcome, I’m Annie Chen
-- 👀 I'm born on 2001/2/27, in Taipei
-- 🌱 I study in `NCU`, currently learning Management Information System
+:paperclip: [view my page!](https://lianchencc.github.io/)
+- 👀 I'm born on 2001/2/27, from Taipei
+- 🌱 I study in `NCU`, currently learning *Management Information System*
 - 💞️ I love traveling and watching movie.
 - 📫 You can reach me by instagram: `__liannn`
 
