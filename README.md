@@ -1,4 +1,4 @@
-[view my page!](https://lianchencc.github.io/)
+:paperclip:[view my page!](https://lianchencc.github.io/)
 ## 👋 Welcome, I’m Annie Chen
 - 👀 I'm born on 2001/2/27, in Taipei
 - 🌱 I study in `NCU`, currently learning Management Information System
