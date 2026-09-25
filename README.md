@@ -5,14 +5,14 @@ Cybersecurity, data analysis, software testing, and SaaS product management.
 
 ## Skills
 - Programming: Python, SQL, Java, JavaScript, HTML/CSS
-- Data: Power BI, Looker Studio, MySQL
+- Data: Power BI, Looker Studio, Google Analytics, MySQL, Firebase
 - Cloud: AWS, Azure
-- Tools: Git, Jira, Postman, Figma
+- Tools: Git, Jira, Postman, Figma, Notion, WordPress
 
 ## Experience
 - Software Testing Intern
-- SaaS Product Management Intern
 - Cybersecurity Intern
+- SaaS Product Management Intern
 - IT Consulting Intern
 
 ## Projects
