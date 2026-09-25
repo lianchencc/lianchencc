@@ -1,7 +1,7 @@
 # Hi, I'm Lian Chen 
 
 I'm an Information Management graduate with experience in
-IT, data analysis, software testing, and SaaS product management.
+Cybersecurity, data analysis, software testing, and SaaS product management.
 
 ## Skills
 - Programming: Python, SQL, Java, JavaScript, HTML/CSS
