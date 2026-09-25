@@ -17,7 +17,6 @@ Cybersecurity, data analysis, software testing, and SaaS product management.
 
 ## Projects
 - Personal Website
-- Data Analysis Projects
-- Python Automation Projects
+- Ecommerce Text Mining Analysis Projects
 
 🌐 Portfolio: https://lianchencc.github.io
